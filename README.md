@@ -24,8 +24,8 @@
    
    c) Ubuntu: https://askubuntu.com/questions/4428/how-can-i-record-my-screen
    
-5) Share the repository link into the Google Form: https://forms.gle/jSzZMKiq2wxFwgiz7
-
+5) Share the repository link into the Google Form:  https://forms.gle/2HbLP8GNiYArZFsj8
+   
 ## Problem Statement
 
 Create a mobile based video game which asks the players to pop the greatest number of balloons within a time period of 2 minutes. The game must contain the following elements:
@@ -82,4 +82,4 @@ Create a mobile based video game which asks the players to pop the greatest numb
  
 2) Ensure compatibility with major mobile OS platforms.
 
-**Push the source code along with a demo video of your solution into the forked github repo. Share the repo link in the google form: https://forms.gle/jSzZMKiq2wxFwgiz7**
+**Push the source code along with a demo video of your solution into the forked github repo. Share the repo link in the google form: https://forms.gle/2HbLP8GNiYArZFsj8**
